@@ -42,12 +42,12 @@ html {
     display:flex;
     flex-direction:column;
   }
-
-  .panel1 { background-image:url(https://source.unsplash.com/gYl-UtwNg_I/1500x1500); }
-  .panel2 { background-image:url(https://source.unsplash.com/rFKUFzjPYiQ/1500x1500); }
-  .panel3 { background-image:url(https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&w=1500&h=1500&fit=crop&s=967e8a713a4e395260793fc8c802901d); }
-  .panel4 { background-image:url(https://source.unsplash.com/ITjiVXcwVng/1500x1500); }
-  .panel5 { background-image:url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500); }
+  
+  .panel1 { background-image:url(https://c4.wallpaperflare.com/wallpaper/598/660/960/left-4-dead-louis-francis-blood-harvest-wallpaper-preview.jpg); }
+  .panel2 { background-image:url(https://c4.wallpaperflare.com/wallpaper/737/544/968/halo-halo-4-video-games-futuristic-wallpaper-preview.jpg); }
+  .panel3 { background-image:url(https://c4.wallpaperflare.com/wallpaper/738/436/859/naughty-dog-the-last-of-us-part-ii-playstation-ellie-ashley-johnson-hd-wallpaper-preview.jpg); }
+  .panel4 { background-image:url(https://c4.wallpaperflare.com/wallpaper/74/453/173/gray-eyes-feathers-onmyoji-wings-wallpaper-preview.jpg); }
+  .panel5 { background-image:url(https://c4.wallpaperflare.com/wallpaper/320/142/500/akali-league-of-legends-akali-league-of-legends-league-of-legends-k-da-video-games-hd-wallpaper-preview.jpg); }
 
 
   /* Flex Children */
